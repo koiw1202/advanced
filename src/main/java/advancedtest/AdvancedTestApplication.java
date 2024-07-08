@@ -1,4 +1,4 @@
-package com.example.advancedtest;
+package advancedtest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -19,6 +19,9 @@ public class TraceId {
         this.level = 0;
     }
 
+    public TraceId() {
+    }
+
     private TraceId(String id, int level) {
         this.id = id ;
         this.level = level;

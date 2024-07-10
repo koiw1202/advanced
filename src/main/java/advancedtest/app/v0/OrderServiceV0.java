@@ -1,4 +1,4 @@
-package advancedtest.v0;
+package advancedtest.app.v0;
 
 import org.springframework.stereotype.Service;
 

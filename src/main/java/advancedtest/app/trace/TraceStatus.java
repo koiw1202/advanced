@@ -1,4 +1,4 @@
-package advancedtest.trace;
+package advancedtest.app.trace;
 
 /**
  * description    :

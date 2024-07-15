@@ -1,6 +1,6 @@
 package advancedtest.app.v1;
 
-import advancedtest.app.trace.TraceStatus;
+import hello.advanced.trace.TraceStatus;
 import advancedtest.app.trace.helloTrace.HelloTraceV1;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

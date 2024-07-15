@@ -1,4 +1,4 @@
-package advancedtest.app.trace;
+package hello.advanced.trace;
 
 import java.util.UUID;
 

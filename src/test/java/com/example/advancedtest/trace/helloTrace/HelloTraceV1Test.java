@@ -1,6 +1,6 @@
 package com.example.advancedtest.trace.helloTrace;
 
-import advancedtest.app.trace.TraceStatus;
+import hello.advanced.trace.TraceStatus;
 import advancedtest.app.trace.helloTrace.HelloTraceV1;
 import org.junit.jupiter.api.Test;
 
